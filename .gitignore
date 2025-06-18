@@ -1,0 +1,57 @@
+# Ignore build directories
+/build/
+/nbproject/
+/lib/
+
+# Ignore compiled class files
+*.class
+
+# Ignore NetBeans-specific metadata
+*.nb-attrs
+private/
+**/private/
+
+# Ignore manifest
+manifest.mf
+
+# Ignore OS or editor junk
+.DS_Store
+Thumbs.db
+notepad .gitignore
+build/
+nbproject/
+lib/
+*.class
+*.iml
+.DS_Store
+*.swp
+build/
+nbproject/
+lib/
+*.class
+*.iml
+.DS_Store
+*.swp
+build/
+nbproject/
+lib/
+*.class
+*.iml
+.DS_Store
+*.swp
+build/
+nbproject/
+lib/
+*.class
+*.iml
+.DS_Store
+*.swp
+build/
+nbproject/
+lib/
+*.class
+*.iml
+.DS_Store
+*.swp
+"open"
+"342\234\205"
